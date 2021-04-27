@@ -10,4 +10,11 @@
 
 ![RUNOOB 图片](https://raw.githubusercontent.com/huangqim2118/huangqingmin2118/main/picture.bmp)
 
+![RUNOOB 图片](https://p2.ssl.qhimgs1.com/t01f1d2511bdbf62ed8.jpg)
 
+
+```c
+#include<stdio.h>
+printf("hello world");
+return 0;
+```
