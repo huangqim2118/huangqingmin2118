@@ -26,5 +26,3 @@ return 0;
 
 * 一
     > ABC
-    > cba
-* 二
