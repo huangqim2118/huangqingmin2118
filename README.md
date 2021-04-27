@@ -29,4 +29,13 @@ return 0;
     > 
 * 二
 
-** 这是加粗的文字
+**bolded text
+*italicized text
+~~like this~~
+***dafaksfj
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
